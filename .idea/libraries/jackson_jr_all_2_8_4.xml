@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jackson-jr-all-2.8.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-datatype-jdk8-2.8.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-datatype-guava-2.8.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-datatype-joda-2.8.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-datatype-jsr310-2.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

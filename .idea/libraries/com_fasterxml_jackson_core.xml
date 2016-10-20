@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/netty-4.1.6.Final/jar/all-in-one/netty-all-4.1.6.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java_tools_and_libs/loggers/slf4j/slf4j-api-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
